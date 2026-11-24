@@ -1,0 +1,12 @@
+{
+  "id": "com.local.system-monitor",
+  "name": "System Monitor",
+  "version": "1.0.0",
+  "executable": "libSystemMonitor.dylib",
+  "author": "MenuBarPlugins",
+  "description": "Lightweight CPU, RAM, and thermal throttling menu bar monitor",
+  "activation": {
+    "mode": "always",
+    "bundleIdentifiers": []
+  }
+}
