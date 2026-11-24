@@ -2,6 +2,7 @@
 *.dylib
 *.dSYM/
 *.swiftmodule
+*.swiftinterface
 *.swiftdoc
 *.swiftsourceinfo
 

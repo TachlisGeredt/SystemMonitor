@@ -1,6 +1,6 @@
 # SystemMonitor
 
-An ultra-lightweight macOS menu bar plugin for **MenuBarPlugins** that displays live **CPU usage**, **RAM usage**, and **thermal throttling** status at **2 Hz** using custom gradient-filled monochrome icons.
+An ultra-lightweight macOS menu bar plugin for **[MenuBarPlugins](https://github.com/TachlisGeredt/MenuBarPlugins)** that displays live **CPU usage**, **RAM usage**, and **thermal throttling** status at **2 Hz** using custom gradient-filled monochrome icons.
 
 ## Features
 
@@ -33,3 +33,8 @@ From the MenuBarPlugins project root:
 ./mbp list
 open MenuBarPlugins.app   # or ./mbp reload if already running
 ```
+
+## Built With
+
+- **AI Harness**: Antigravity
+- **Model & Settings**: Gemini 4 Neon (Medium)
