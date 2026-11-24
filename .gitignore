@@ -1,0 +1,12 @@
+# Compiled build & install artifacts
+*.dylib
+*.dSYM/
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+
+# Runtime plugin state
+Data/
+
+# macOS
+.DS_Store
